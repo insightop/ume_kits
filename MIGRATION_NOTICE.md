@@ -1,7 +1,7 @@
 # ⚠️ 本仓库已归档（Archived）
 
 本仓库的代码与完整 Git 历史**已合并**至主仓库
-**[ume-community/ume](https://github.com/ume-community/ume)**。
+**[insightop/ume](https://github.com/insightop/ume)**。
 
 - 合并后的位置：`pkgs/ume_kit_*/`（例如 `pkgs/ume_kit_console/`）
 - 合并方式：`git subtree`（历史完整保留，可通过 `git log` 追溯）
@@ -12,5 +12,5 @@
 ---
 
 This repository has been **archived**. Its code and full git history were merged
-into **[ume-community/ume](https://github.com/ume-community/ume)** under `pkgs/ume_kit_*/`.
+into **[insightop/ume](https://github.com/insightop/ume)** under `pkgs/ume_kit_*/`.
 Please continue development and publishing there.
